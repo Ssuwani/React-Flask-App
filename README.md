@@ -11,6 +11,10 @@ BackEnd : Flask
 
 ## 실행
 
-yarn start (frontend)
+```bash
+yarn start
+yarn start-api
+```
 
-yarn start-api (backend)
+
+
